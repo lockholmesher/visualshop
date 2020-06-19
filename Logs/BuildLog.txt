@@ -1,236 +1,99 @@
-<<<<<<< HEAD
-[  33/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/46b433b264c69cbd39f04ad2e5d12be8
-[  34/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6920b1d3eee5005bdffc85068655429c
-[  35/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b3b13643c54332d0a38c327a6370bdaf
-[  36/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1b5ed0d171847e3b3b0910f14ebc3cdc
-[  37/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b9c502e459a3290c51c584562e258901
-[  38/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/106c3e185bdf0a4b510192324f95a9d9
-[  39/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/cdcd4c1946a0fec725a5224db4af8e59
-[  39/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ea9e2074d79b134c38f2855abd9f51ae
-[  41/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d90e8cbad1b58d3f327c1c5d69073b80
-[  41/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b96200a6c68bbc6deac6baabaa99946b
-[  43/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a084db8f0a9874727873ee39d365de4d
-[  44/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ed7866b3a65b827e32ca097bc736a8c4
-[  45/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/780a5a0640e328f7620a26aef2262300
-[  46/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f955d1bf91d284b7077c1bdec892a555
-[  47/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bce97303a56f2b3d29fc1a79757e7267
-[  48/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8cf1f183e262884e3308a98e48d1da0e
-[  49/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/383fa740214b0741ebd25274a3a30c43
-[  50/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/dfed2b7829fdf78030f64da276708aa2
-[  51/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0546dbc3194947e63a72922a5c7d1108
-[  52/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/40f810bdc26bd346176c97b1f70cc315
-[  53/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4f9dd6ad288e77f807e8aee5b37adeda
-[  54/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/69be24b9d712dcabb316841b461d7f2e
-[  55/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/29bf72f2f1888726c1264bead2a450c7
-[  56/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ce0ef49a8c893800ac8343659997a1be
-[  57/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6d0ee5e244b3e481283000bb9f54a2ab
-[  57/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8ed9675ce709d4ff2a360d536ddce5b9
-[  59/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ad0727476b4a7b69f75b1332f9ee806b
-[  60/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f92c6c3847f04fbcf22b5ffd5d7f6df8
-[  61/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d85b052a442025c9b83d5cab08c83b3d
-[  62/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/71e67d6e17b04dec19082532f13f9806
-[  63/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a4c82944bd8ecb4891b8a05b346d03e9
-[  64/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/915cb82aa4f06d6f3910d5e7e7a867cd
-[  65/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/18bffcb0301199c1555c3eba26ab3d25
-[  66/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b98622db98fa90dc005dde1236137574
-[  67/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8799e3c9383841d5818f0ce6362c2e13
-=======
+[  33/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6920b1d3eee5005bdffc85068655429c
 [  33/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8ed9675ce709d4ff2a360d536ddce5b9
-[  33/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/46b433b264c69cbd39f04ad2e5d12be8
-[  35/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6920b1d3eee5005bdffc85068655429c
-[  36/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1b5ed0d171847e3b3b0910f14ebc3cdc
-[  37/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b3b13643c54332d0a38c327a6370bdaf
-[  38/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/106c3e185bdf0a4b510192324f95a9d9
-[  39/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b9c502e459a3290c51c584562e258901
-[  40/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/cdcd4c1946a0fec725a5224db4af8e59
-[  41/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ea9e2074d79b134c38f2855abd9f51ae
-[  42/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d90e8cbad1b58d3f327c1c5d69073b80
+[  34/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6d0ee5e244b3e481283000bb9f54a2ab
+[  36/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  37/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b9c502e459a3290c51c584562e258901
+[  38/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b3b13643c54332d0a38c327a6370bdaf
+[  39/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1b5ed0d171847e3b3b0910f14ebc3cdc
+[  40/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/106c3e185bdf0a4b510192324f95a9d9
+[  41/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/cdcd4c1946a0fec725a5224db4af8e59
+[  42/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ea9e2074d79b134c38f2855abd9f51ae
 [  43/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b96200a6c68bbc6deac6baabaa99946b
-[  44/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a084db8f0a9874727873ee39d365de4d
-[  45/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ed7866b3a65b827e32ca097bc736a8c4
-[  46/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/780a5a0640e328f7620a26aef2262300
-[  47/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f955d1bf91d284b7077c1bdec892a555
-[  48/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8cf1f183e262884e3308a98e48d1da0e
-[  49/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bce97303a56f2b3d29fc1a79757e7267
+[  43/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d90e8cbad1b58d3f327c1c5d69073b80
+[  45/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a084db8f0a9874727873ee39d365de4d
+[  46/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ed7866b3a65b827e32ca097bc736a8c4
+[  47/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/383fa740214b0741ebd25274a3a30c43
+[  47/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/780a5a0640e328f7620a26aef2262300
+[  49/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f955d1bf91d284b7077c1bdec892a555
 [  50/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/dfed2b7829fdf78030f64da276708aa2
-[  51/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/383fa740214b0741ebd25274a3a30c43
-[  52/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/40f810bdc26bd346176c97b1f70cc315
+[  51/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bce97303a56f2b3d29fc1a79757e7267
+[  52/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8cf1f183e262884e3308a98e48d1da0e
 [  53/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0546dbc3194947e63a72922a5c7d1108
 [  54/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4f9dd6ad288e77f807e8aee5b37adeda
-[  55/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/69be24b9d712dcabb316841b461d7f2e
-[  56/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6d0ee5e244b3e481283000bb9f54a2ab
-[  57/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/29bf72f2f1888726c1264bead2a450c7
-[  58/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ce0ef49a8c893800ac8343659997a1be
-[  59/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/71e67d6e17b04dec19082532f13f9806
-[  60/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ad0727476b4a7b69f75b1332f9ee806b
-[  61/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f92c6c3847f04fbcf22b5ffd5d7f6df8
+[  55/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/40f810bdc26bd346176c97b1f70cc315
+[  56/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ce0ef49a8c893800ac8343659997a1be
+[  57/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/69be24b9d712dcabb316841b461d7f2e
+[  58/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/29bf72f2f1888726c1264bead2a450c7
+[  59/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f92c6c3847f04fbcf22b5ffd5d7f6df8
+[  59/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ad0727476b4a7b69f75b1332f9ee806b
+[  61/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/71e67d6e17b04dec19082532f13f9806
 [  62/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d85b052a442025c9b83d5cab08c83b3d
-[  63/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/18bffcb0301199c1555c3eba26ab3d25
-[  64/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8799e3c9383841d5818f0ce6362c2e13
-[  65/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a4c82944bd8ecb4891b8a05b346d03e9
-[  66/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b98622db98fa90dc005dde1236137574
-[  67/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/915cb82aa4f06d6f3910d5e7e7a867cd
->>>>>>> 09b1b965602c56d1429e2493f18061528e03c839
+[  63/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8799e3c9383841d5818f0ce6362c2e13
+[  64/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/18bffcb0301199c1555c3eba26ab3d25
+[  65/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/915cb82aa4f06d6f3910d5e7e7a867cd
+[  66/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a4c82944bd8ecb4891b8a05b346d03e9
+[  67/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/b98622db98fa90dc005dde1236137574
 [  68/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bbd0532a6503dc293c90c126849dcc31
 [  69/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/3df5421513cb6c25ffe0be75364d569f
-[  70/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/16793602a90eba724e7cb016c48e08f3
-[  71/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/2d345281e43af7799a33a7528c6c8d2d
-<<<<<<< HEAD
-[  72/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/014e2564f93ad1838c19e89b4f052944
+[  70/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a46744757c2a1f4bd4e084b1a5333b69
+[  71/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/16793602a90eba724e7cb016c48e08f3
+[  72/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/2d345281e43af7799a33a7528c6c8d2d
 [  73/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/cc03900110f87eecd22b83ecc59783e8
-[  74/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/29eba5dfe037f2d1e22e08bcd7c71de0
-[  75/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/5fa1232533b4f3b5bc78eebac0e476d0
-[  76/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a46744757c2a1f4bd4e084b1a5333b69
-[  77/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0f12e31335d0d94aa2b8ac8a768cf0da
-[  78/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/04be36fd3b9f0674fda2dc3096dfdfc7
-[  79/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/78cdb9a6b20da0fd88961b3c7a14d4c4
-[  80/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bb37e4f989242b329d8236746b5caf7d
-[  81/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bb129b1f0c8b2ecb89d83c24e3f7c3b1
-[  82/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/9903894f370a0370e5396c45af6b63e6
-[  83/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/3ab9aa2d256c8439ef4449565acfbd10
-[  84/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/10c7f0ba1b86493457bac2b2944453e3
-[  85/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/2cffe8aa71fa52744b4401a672ebf4d7
-[  86/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f2a4170e5ed18e5e47b7474f8df96d5b
-[  87/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/54b67644a4dfe52dd8bd7778b11408bb
-[  88/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d9113eada7083e7a62c9f1607b813736
-[  89/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0ce223b3ca73a450a011ef6f51f935c9
-[  90/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8d6c5bafceaf88f3a5b76df3f510c749
-[  91/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/574b04abf5a7d11e7283fd8a3fea79d3
-[  92/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/161c7a161189ba229e88034c09120dda
-[  93/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/90aae4a9bd3158905e5e3271a9cce7e5
-[  94/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d1ec68d43238016f907a5f61f0cdf8a8
-[  95/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/7ff9656bd27646b3f239058b329fa0e7
-[  96/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/750f0005b85ffa42f60d22b9012e3de5
-[  97/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/7515847f16473d839430b818a2e19241
-[  98/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a4f05d59d8af31ac24de84ed5d71b7fb
-[  99/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1c7f5af3f431ad370674ae6e23b1c661
-[ 100/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/c565d3caa555e58edffe0bd93967745a
-[ 101/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4052c25e33b8aab10fd751b81bfa82a5
-[ 102/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4e36236c7e31196a08f34e6b42dc75c3
-[ 103/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4037c70cda4e56db62872162be5b6447
-[ 104/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/884eaa8f51ce9e1dd276a3a63d041d9f
-[ 105/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/567e4240d16b6584a38e5a47b725c7af
-[ 106/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d7f967047648f3394b4ac92c2fa8909c
-[ 107/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8ebfd393af912ad502f7bd345e89a4ee
-[ 108/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/e70f24d58fe0b498359c1cb59a14fd66
-[ 109/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4a6a46a0d8c4570be6442004f1211779
-[ 110/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d8afb6fdba2bfb7838879a0095113967
-[ 111/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/869415d54f66b4bb4adb00900737792b
-[ 112/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0b4c802520f64fa4e84584735fdd96ca
-[ 113/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/44cadbe47669faf023641faa6319f94d
-[ 114/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/83b5985f053938b6f83388b9fed24597
-=======
-[  72/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a46744757c2a1f4bd4e084b1a5333b69
-[  73/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/014e2564f93ad1838c19e89b4f052944
-[  74/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/cc03900110f87eecd22b83ecc59783e8
+[  74/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/014e2564f93ad1838c19e89b4f052944
 [  75/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/29eba5dfe037f2d1e22e08bcd7c71de0
 [  76/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/5fa1232533b4f3b5bc78eebac0e476d0
-[  77/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/04be36fd3b9f0674fda2dc3096dfdfc7
-[  78/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0f12e31335d0d94aa2b8ac8a768cf0da
-[  79/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bb129b1f0c8b2ecb89d83c24e3f7c3b1
+[  77/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bb129b1f0c8b2ecb89d83c24e3f7c3b1
+[  78/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/04be36fd3b9f0674fda2dc3096dfdfc7
+[  79/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0f12e31335d0d94aa2b8ac8a768cf0da
 [  80/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/78cdb9a6b20da0fd88961b3c7a14d4c4
 [  81/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/bb37e4f989242b329d8236746b5caf7d
-[  82/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/9903894f370a0370e5396c45af6b63e6
-[  83/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/3ab9aa2d256c8439ef4449565acfbd10
-[  84/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/10c7f0ba1b86493457bac2b2944453e3
-[  85/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f2a4170e5ed18e5e47b7474f8df96d5b
-[  86/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/54b67644a4dfe52dd8bd7778b11408bb
-[  87/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/2cffe8aa71fa52744b4401a672ebf4d7
-[  88/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/574b04abf5a7d11e7283fd8a3fea79d3
+[  82/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/3ab9aa2d256c8439ef4449565acfbd10
+[  83/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/10c7f0ba1b86493457bac2b2944453e3
+[  84/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/9903894f370a0370e5396c45af6b63e6
+[  85/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/2cffe8aa71fa52744b4401a672ebf4d7
+[  86/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/574b04abf5a7d11e7283fd8a3fea79d3
+[  87/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/54b67644a4dfe52dd8bd7778b11408bb
+[  88/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/f2a4170e5ed18e5e47b7474f8df96d5b
+[  89/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/161c7a161189ba229e88034c09120dda
 [  89/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d9113eada7083e7a62c9f1607b813736
-[  90/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0ce223b3ca73a450a011ef6f51f935c9
-[  91/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/161c7a161189ba229e88034c09120dda
-[  92/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8d6c5bafceaf88f3a5b76df3f510c749
-[  93/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/90aae4a9bd3158905e5e3271a9cce7e5
-[  94/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d1ec68d43238016f907a5f61f0cdf8a8
-[  95/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/750f0005b85ffa42f60d22b9012e3de5
-[  96/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a4f05d59d8af31ac24de84ed5d71b7fb
-[  97/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4e36236c7e31196a08f34e6b42dc75c3
-[  98/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/7ff9656bd27646b3f239058b329fa0e7
-[  99/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/7515847f16473d839430b818a2e19241
-[ 100/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/c565d3caa555e58edffe0bd93967745a
-[ 101/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1c7f5af3f431ad370674ae6e23b1c661
-[ 102/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4037c70cda4e56db62872162be5b6447
-[ 103/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4052c25e33b8aab10fd751b81bfa82a5
-[ 104/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8ebfd393af912ad502f7bd345e89a4ee
-[ 105/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/567e4240d16b6584a38e5a47b725c7af
-[ 106/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d7f967047648f3394b4ac92c2fa8909c
-[ 107/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/884eaa8f51ce9e1dd276a3a63d041d9f
-[ 108/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d8afb6fdba2bfb7838879a0095113967
-[ 109/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/e70f24d58fe0b498359c1cb59a14fd66
+[  91/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0ce223b3ca73a450a011ef6f51f935c9
+[  91/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8d6c5bafceaf88f3a5b76df3f510c749
+[  93/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d1ec68d43238016f907a5f61f0cdf8a8
+[  94/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4e36236c7e31196a08f34e6b42dc75c3
+[  95/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/7ff9656bd27646b3f239058b329fa0e7
+[  96/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/90aae4a9bd3158905e5e3271a9cce7e5
+[  97/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a4f05d59d8af31ac24de84ed5d71b7fb
+[  98/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/750f0005b85ffa42f60d22b9012e3de5
+[  99/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/c565d3caa555e58edffe0bd93967745a
+[ 100/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/7515847f16473d839430b818a2e19241
+[ 101/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4052c25e33b8aab10fd751b81bfa82a5
+[ 102/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1c7f5af3f431ad370674ae6e23b1c661
+[ 103/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4037c70cda4e56db62872162be5b6447
+[ 104/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/567e4240d16b6584a38e5a47b725c7af
+[ 105/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/8ebfd393af912ad502f7bd345e89a4ee
+[ 106/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/884eaa8f51ce9e1dd276a3a63d041d9f
+[ 107/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d7f967047648f3394b4ac92c2fa8909c
+[ 108/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/e70f24d58fe0b498359c1cb59a14fd66
+[ 109/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d8afb6fdba2bfb7838879a0095113967
 [ 110/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/4a6a46a0d8c4570be6442004f1211779
 [ 111/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/869415d54f66b4bb4adb00900737792b
-[ 112/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/44cadbe47669faf023641faa6319f94d
+[ 112/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0b4c802520f64fa4e84584735fdd96ca
 [ 113/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/83b5985f053938b6f83388b9fed24597
-[ 113/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/0b4c802520f64fa4e84584735fdd96ca
->>>>>>> 09b1b965602c56d1429e2493f18061528e03c839
+[ 113/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/44cadbe47669faf023641faa6319f94d
 [ 115/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/010815746b41476db5d7c98e863649d1
 [ 116/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/1f5c6a70f63810d699aa82200b2e3d5b
 [ 117/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/5f23408f426b7ae8a6eae5ffeef87891
-[ 118/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ac1414d8a15802f04cd3bc140b262e66
+[ 118/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a600cb56dca152fa1d820e6ec74b22e4
 [ 119/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/eb579bb6dc528a493c21c193abf110fb
-<<<<<<< HEAD
-[ 120/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/50a27d2e464b2277532e503f39dd2fcd
-[ 121/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a600cb56dca152fa1d820e6ec74b22e4
-[ 122/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/761a3a86f4c62bd4b8709172663b46be
-[ 123/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6f9111fd169128cd34d4cb2e2405919e
-[ 124/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d98bf8c0d43c9d8ac1d9d5443d85ebaf
-[ 127/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a7d62d2690183bd5a07362fe61f389e1
-[ 145/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/01e9e27b9e1b0be19e08012898c6ac2c
-[ 164/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d6b62932a501436a233328a5a7c88def
-[1083/1154  5s] Csc artifacts/VisualShop.dll/visualshop-wasmbuildconfiguration/VisualShop.dll (+2 others)
-[1084/1154  0s] ILPostProcessorRunner artifacts/VisualShop/visualshop-wasmbuildconfiguration/post_ilprocessing/VisualShop.dll (+pdb)
-[1085/1154  1s] TypeRegGen artifacts/VisualShop/visualshop-wasmbuildconfiguration/post_typereg/VisualShop.dll (+65 others)
-[1086/1154  5s] UnityLinker artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/VisualShop.dll (+65 others)
-[BUSY       6s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-[BUSY      16s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-[1087/1154 23s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-=======
-[ 119/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a600cb56dca152fa1d820e6ec74b22e4
+[ 120/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/ac1414d8a15802f04cd3bc140b262e66
 [ 121/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/761a3a86f4c62bd4b8709172663b46be
 [ 122/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/50a27d2e464b2277532e503f39dd2fcd
-[ 123/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d98bf8c0d43c9d8ac1d9d5443d85ebaf
 [ 123/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/6f9111fd169128cd34d4cb2e2405919e
-[ 145/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a7d62d2690183bd5a07362fe61f389e1
-[ 327/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/01e9e27b9e1b0be19e08012898c6ac2c
-[ 710/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d6b62932a501436a233328a5a7c88def
-[1083/1154  0s] Csc artifacts/VisualShop.dll/visualshop-wasmbuildconfiguration/VisualShop.dll (+2 others)
-[1084/1154  1s] ILPostProcessorRunner artifacts/VisualShop/visualshop-wasmbuildconfiguration/post_ilprocessing/VisualShop.dll (+pdb)
-[1085/1154  3s] TypeRegGen artifacts/VisualShop/visualshop-wasmbuildconfiguration/post_typereg/VisualShop.dll (+65 others)
-[BUSY       6s] UnityLinker artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/VisualShop.dll (+65 others)
-[1086/1154 10s] UnityLinker artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/VisualShop.dll (+65 others)
-[BUSY       6s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-[BUSY      16s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-[BUSY      26s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-[BUSY      36s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
-[1087/1154 37s] Il2Cpp artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/driver.cpp (+60 others)
->>>>>>> 09b1b965602c56d1429e2493f18061528e03c839
-Running il2cpp.exe in workstation GC mode.
-[1148/1154  1s] C_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/2yah/VisualShop.o
-/Users/letuananh/Documents/MyProject/My Unity Project/Visual Shop/Library/DotsRuntimeBuild/artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/VisualShop.cpp:596:3: warning: declaration does not declare anything [-Wmissing-declarations]
-                struct
-                ^
-/Users/letuananh/Documents/MyProject/My Unity Project/Visual Shop/Library/DotsRuntimeBuild/artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/VisualShop.cpp:769:3: warning: declaration does not declare anything [-Wmissing-declarations]
-                struct
-                ^
-/Users/letuananh/Documents/MyProject/My Unity Project/Visual Shop/Library/DotsRuntimeBuild/artifacts/VisualShop/visualshop-wasmbuildconfiguration_stripped/il2cpp-src/VisualShop.cpp:1261:3: warning: declaration does not declare anything [-Wmissing-declarations]
-                struct
-                ^
-3 warnings generated.
-[BUSY       6s] Link_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/VisualShop.html (+wasm,js)
-[BUSY      16s] Link_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/VisualShop.html (+wasm,js)
-<<<<<<< HEAD
-[1149/1154 24s] Link_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/VisualShop.html (+wasm,js)
+[ 124/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d98bf8c0d43c9d8ac1d9d5443d85ebaf
+[ 141/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/a7d62d2690183bd5a07362fe61f389e1
+[ 142/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/01e9e27b9e1b0be19e08012898c6ac2c
+[ 172/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/Data/d6b62932a501436a233328a5a7c88def
 [1150/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/VisualShop.js
 [1151/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/VisualShop.wasm
 [1152/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/VisualShop.html
-*** Bee build success (64.12 seconds - 0:01:04), 105 items updated
-=======
-[BUSY      26s] Link_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/VisualShop.html (+wasm,js)
-[BUSY      36s] Link_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/VisualShop.html (+wasm,js)
-[1149/1154 36s] Link_WebGL_wasm artifacts/VisualShop/visualshop-wasmbuildconfiguration/VisualShop.html (+wasm,js)
-[1150/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/VisualShop.wasm
-[1150/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/VisualShop.js
-[1152/1154  0s] CopyTool /Users/letuananh/Documents/MyProject/WebAsembly/VisualShop/public/VisualShop.html
-*** Bee build success (93.74 seconds - 0:01:33), 105 items updated
->>>>>>> 09b1b965602c56d1429e2493f18061528e03c839
+*** Bee build success (0.64 seconds), 98 items updated
