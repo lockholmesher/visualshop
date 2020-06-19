@@ -99,14 +99,13 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 ::Exported Types (by stable hash)::
 0x047494c41579f612 -     321045043344963090 - Unity.Tiny.Image2DLoadFromFileGuids
 0x17f9e5069c1a8fb2 -    1727663748624846770 - Unity.Tiny.Rendering.Camera
-0x19eb34224cf7a19f -    1867643792400032159 - Unity.Tiny.Rendering.SimpleMeshRenderer
 0x1b218d33270729db -    1954998964093135323 - Unity.Tiny.DisplayInfo
 0x1bb99fe8082b6e0c -    1997803728633818636 - Unity.Tiny.Rendering.WorldBounds
 0x1caf83746704a721 -    2067015289954150177 - Unity.Tiny.Rendering.MeshBounds
 0x25a6766059893c70 -    2712985981728406640 - PlayerInput
+0x2b4a005a02a8a840 -    3119306078499153984 - Unity.Tiny.Rendering.LitMeshRenderer
 0x362b61c092f03115 -    3903320981773496597 - Unity.Tiny.ConfigurationTag
 0x3d4f995ca50d324b -    4417918382658892363 - Unity.Tiny.Audio.AudioListener
-0x436545f9c83c901f -    4856364712297533471 - Unity.Tiny.Rendering.SimpleMeshRenderData
 0x4d1afe3de83f2462 -    5556032632157840482 - Unity.Transforms.LocalToParent
 0x4e2aa9492a9e323d -    5632500415692943933 - Unity.Tiny.Rendering.AmbientLight
 0x6414fbc588719a57 -    7211665729143282263 - Unity.Physics.PhysicsDamping
@@ -114,7 +113,6 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x666da2351421998e -    7380733713184823694 - Unity.Entities.EntityGuid
 0x6a6b52ecc95a65e0 -    7668313967472305632 - Unity.Transforms.Parent
 0x6d37a2cd8f0e7009 -    7869937877605314569 - Unity.Tiny.Rendering.MeshRenderer
-0x6e62c03e9232d5d1 -    7954131266863027665 - Unity.Tiny.Rendering.SimpleMaterial
 0x7accdf07fb47f2d8 -    8848692593249743576 - Unity.Tiny.Rendering.Light
 0x7ca9f649ecd24eb0 -    8982981729133416112 - Unity.Tiny.Rendering.FragmentShaderBinData
 0x97490261b3c2de08 -   10901246991677971976 - Unity.Transforms.LocalToWorld
@@ -127,9 +125,11 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0xb1ac034499f49e3e -   12802611433883082302 - Unity.Transforms.Rotation
 0xd52a8a8aa388fc91 -   15360241807154281617 - Unity.Tiny.Image2D
 0xda007ce4baa8be64 -   15708692822094298724 - Unity.Tiny.Image2DLoadFromFile
+0xdb003da453d25945 -   15780680870296443205 - Unity.Tiny.Rendering.LitMaterial
 0xddbba8ec91f838c5 -   15977549837041678533 - Unity.Entities.Runtime.StartupScenes
 0xe25290b2a1c08b8e -   16308256297554316174 - Unity.Physics.PhysicsVelocity
 0xed1b262e7446b1b0 -   17085291592321249712 - Unity.Tiny.Rendering.VertexShaderBinData
+0xf5eb33b6db09d767 -   17720314019271268199 - Unity.Tiny.Rendering.LitMeshRenderData
 
 
 ::All Types in TypeManager (by stable hash)::
