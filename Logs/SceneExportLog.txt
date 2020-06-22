@@ -102,10 +102,11 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x1b218d33270729db -    1954998964093135323 - Unity.Tiny.DisplayInfo
 0x1bb99fe8082b6e0c -    1997803728633818636 - Unity.Tiny.Rendering.WorldBounds
 0x1caf83746704a721 -    2067015289954150177 - Unity.Tiny.Rendering.MeshBounds
-0x25a6766059893c70 -    2712985981728406640 - PlayerInput
 0x2b4a005a02a8a840 -    3119306078499153984 - Unity.Tiny.Rendering.LitMeshRenderer
+0x34d16dd06358edd0 -    3805943901892177360 - PlayerInput
 0x362b61c092f03115 -    3903320981773496597 - Unity.Tiny.ConfigurationTag
 0x3d4f995ca50d324b -    4417918382658892363 - Unity.Tiny.Audio.AudioListener
+0x4086db24000237ae -    4649644612972066734 - Unity.Transforms.NonUniformScale
 0x4d1afe3de83f2462 -    5556032632157840482 - Unity.Transforms.LocalToParent
 0x4e2aa9492a9e323d -    5632500415692943933 - Unity.Tiny.Rendering.AmbientLight
 0x6414fbc588719a57 -    7211665729143282263 - Unity.Physics.PhysicsDamping
@@ -115,6 +116,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x6d37a2cd8f0e7009 -    7869937877605314569 - Unity.Tiny.Rendering.MeshRenderer
 0x7accdf07fb47f2d8 -    8848692593249743576 - Unity.Tiny.Rendering.Light
 0x7ca9f649ecd24eb0 -    8982981729133416112 - Unity.Tiny.Rendering.FragmentShaderBinData
+0x9225a4b002d710ea -   10531004379544621290 - Unity.Entities.Disabled
 0x97490261b3c2de08 -   10901246991677971976 - Unity.Transforms.LocalToWorld
 0x9936cd33eaf52908 -   11040237159414311176 - Unity.Physics.PhysicsCollider
 0x9dd0aed45cc8326a -   11371781286223426154 - Unity.Physics.PhysicsMass
@@ -123,11 +125,14 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0xa6a8a3b8ff79782e -   12009028421338888238 - Unity.Tiny.Rendering.Fog
 0xa8fba173160f8bf3 -   12176503533189696499 - Unity.Tiny.Rendering.PrecompiledShader
 0xb1ac034499f49e3e -   12802611433883082302 - Unity.Transforms.Rotation
+0xbd6e8748ccb98d07 -   13649996267348659463 - Unity.Transforms.CompositeScale
+0xbea79ca45e4be521 -   13738121418087589153 - Unity.Entities.LinkedEntityGroup
 0xd52a8a8aa388fc91 -   15360241807154281617 - Unity.Tiny.Image2D
 0xda007ce4baa8be64 -   15708692822094298724 - Unity.Tiny.Image2DLoadFromFile
 0xdb003da453d25945 -   15780680870296443205 - Unity.Tiny.Rendering.LitMaterial
 0xddbba8ec91f838c5 -   15977549837041678533 - Unity.Entities.Runtime.StartupScenes
 0xe25290b2a1c08b8e -   16308256297554316174 - Unity.Physics.PhysicsVelocity
+0xeb37a6c8ca934757 -   16949199103954470743 - TouchComponent
 0xed1b262e7446b1b0 -   17085291592321249712 - Unity.Tiny.Rendering.VertexShaderBinData
 0xf5eb33b6db09d767 -   17720314019271268199 - Unity.Tiny.Rendering.LitMeshRenderData
 
@@ -157,6 +162,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x03f584865338c6e6 -     285279863864608486 - Unity.Scenes.ResolvedSectionPath
 0x047494c41579f612 -     321045043344963090 - Unity.Tiny.Image2DLoadFromFileGuids
 0x048c8b5aa4e39dec -     327790094320901612 - UnityEngine.EventSystems.StandaloneInputModule
+0x049a7461c98c0971 -     331705485907200369 - CheckManHole
 0x04f912fafffb3618 -     358338514598442520 - UnityEngine.EventSystems.Physics2DRaycaster
 0x05550807b748d16a -     384222172442841450 - Unity.Tiny.Particles.EmitterInitialRotation
 0x057cbea81f6f5ca8 -     395400496592936104 - Unity.Tiny.Scenes.ActiveScene
@@ -319,7 +325,6 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x24d5d2eb74846070 -    2654259464118755440 - UnityEditor.PhysicsManager
 0x2505acde9827c744 -    2667728426322347844 - Unity.Scenes.SceneEntityReference
 0x2506ca1a71078b82 -    2668042044177877890 - UnityEditor.UI.AspectRatioFitterEditor
-0x25a6766059893c70 -    2712985981728406640 - PlayerInput
 0x25bfa06cd2ec0623 -    2720069089210664483 - UnityEditor.Build.Reporting.PackedAssets
 0x261ec57c8569a6c2 -    2746849961347491522 - UnityEditor.MainView
 0x263501c92666b7d2 -    2753108710651246546 - UnityEditor.PlayerSettings
@@ -391,6 +396,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x343ac9aa653aa9fb -    3763542172301437435 - UnityEngine.UI.Outline
 0x343e45dbc0b3921a -    3764523148661461530 - UnityEditor.AssemblyDefinitionReferenceImporterInspector+AssemblyDefinitionReferenceState
 0x34847c362919429e -    3784286158957658782 - UnityEditor.Web.EditorProjectAccess
+0x34d16dd06358edd0 -    3805943901892177360 - PlayerInput
 0x34e5a707362d3be5 -    3811636309054536677 - UnityEngine.Joint2D
 0x3501e160af5fbacb -    3819581764362287819 - Unity.Tiny.Rendering.ChunkWorldBounds
 0x3541e6605db05d0e -    3837601659059461390 - UnityEngine.VFX.VFXRenderer
@@ -434,6 +440,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x3c8d215352ff1964 -    4363180255750330724 - UnityEditor.ViewModeToolCustomEditor
 0x3c9985d8aed02815 -    4366668479404714005 - UnityEditor.UI.GraphicEditor
 0x3cc77acd8ac825ba -    4379604185856353722 - UnityEditor.Experimental.GraphView.GraphViewUndoRedoSelection
+0x3d1e9c256df0a640 -    4404129170187134528 - CheckManHoleAuthoring
 0x3d47593d32873b2a -    4415596079035661098 - UnityEditor.AvatarMaskInspector
 0x3d4f5244b4579475 -    4417840214510638197 - MaterialOverrideEditor
 0x3d4f995ca50d324b -    4417918382658892363 - Unity.Tiny.Audio.AudioListener
@@ -561,6 +568,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x561cd33ce3607728 -    6205066645075949352 - UnityEditor.ProjectWindowCallback.DoCreateAudioMixer
 0x5663c12db44998ed -    6225031511998568685 - UnityEngine.FixedJoint
 0x56884440fd9358d8 -    6235308730017339608 - UnityEditor.PackageManager.UI.PackageDatabase+PackageDatabaseInternal
+0x56a216d88f57e490 -    6242577152862577808 - TouchComponentAuthoring
 0x56aa6491a0f30089 -    6244914409935929481 - UnityEngine.Connect.UnityConnectSettings
 0x56b600cee28d215a -    6248182421587304794 - UnityEngine.SpringJoint
 0x56f2c9053dcb33ae -    6265291055974527918 - UnityEngine.AudioLowPassFilter
@@ -1328,6 +1336,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0xea0e1b6e838b47ad -   16865447816016381869 - UnityEngine.WebCamTexture
 0xea20da2021657a56 -   16870724035663985238 - UnityEngine.Experimental.Rendering.Universal.RenderObjects
 0xeb115d67a5b8f817 -   16938422373260523543 - Unity.Transforms.PostRotationEulerXYZ
+0xeb37a6c8ca934757 -   16949199103954470743 - TouchComponent
 0xeb4e174d05f24252 -   16955515266676179538 - UnityEngine.CharacterJoint
 0xeb59be79d4ef4cfc -   16958795302313086204 - UnityEditor.TerrainInspector
 0xeb7504725e93c8a7 -   16966472060447738023 - UnityEditor.PackageManager.PackageManifestImporterEditor
