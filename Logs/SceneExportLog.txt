@@ -104,6 +104,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 
 ::Exported Types (by stable hash)::
 0x047494c41579f612 -     321045043344963090 - Unity.Tiny.Image2DLoadFromFileGuids
+0x049a7461c98c0971 -     331705485907200369 - CheckManHole
 0x17f9e5069c1a8fb2 -    1727663748624846770 - Unity.Tiny.Rendering.Camera
 0x1b218d33270729db -    1954998964093135323 - Unity.Tiny.DisplayInfo
 0x1bb99fe8082b6e0c -    1997803728633818636 - Unity.Tiny.Rendering.WorldBounds
@@ -122,7 +123,6 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x6d37a2cd8f0e7009 -    7869937877605314569 - Unity.Tiny.Rendering.MeshRenderer
 0x7accdf07fb47f2d8 -    8848692593249743576 - Unity.Tiny.Rendering.Light
 0x7ca9f649ecd24eb0 -    8982981729133416112 - Unity.Tiny.Rendering.FragmentShaderBinData
-0x9225a4b002d710ea -   10531004379544621290 - Unity.Entities.Disabled
 0x97490261b3c2de08 -   10901246991677971976 - Unity.Transforms.LocalToWorld
 0x9936cd33eaf52908 -   11040237159414311176 - Unity.Physics.PhysicsCollider
 0x9dd0aed45cc8326a -   11371781286223426154 - Unity.Physics.PhysicsMass
@@ -132,7 +132,6 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0xa8fba173160f8bf3 -   12176503533189696499 - Unity.Tiny.Rendering.PrecompiledShader
 0xb1ac034499f49e3e -   12802611433883082302 - Unity.Transforms.Rotation
 0xbd6e8748ccb98d07 -   13649996267348659463 - Unity.Transforms.CompositeScale
-0xbea79ca45e4be521 -   13738121418087589153 - Unity.Entities.LinkedEntityGroup
 0xd52a8a8aa388fc91 -   15360241807154281617 - Unity.Tiny.Image2D
 0xda007ce4baa8be64 -   15708692822094298724 - Unity.Tiny.Image2DLoadFromFile
 0xdb003da453d25945 -   15780680870296443205 - Unity.Tiny.Rendering.LitMaterial
