@@ -1,37 +1,31 @@
 ::Exported Assets::
 8ed9675ce709d4ff2a360d536ddce5b9 = Assets/Scenes/Player.unity
 6d0ee5e244b3e481283000bb9f54a2ab = Assets/Scenes/Shop.unity
-6a327057c56898913c32bcd1104dcfde = Assets/TextureProduction/AddToCard.png
-86e4d80e32ab2a8b1f44fc631e4f8679 = Assets/TextureProduction/d1.png
-57237bfae6729497a4be76b9d8a9c9a0 = Assets/TextureProduction/d2.png
-775c7e1580e160f7a2b0b3315410ae2f = Assets/TextureProduction/d3.png
-fc30895e8738ea4820c1282d065b16f5 = Assets/TextureProduction/d4.png
-dd7eae18d17d4bd87cbe6a66db8dd743 = Assets/TextureProduction/d5.png
-38b7cc4e40e815cbb110d5ea31c34508 = Assets/TextureProduction/p1.png
-8db993f38dccf4331ff21e1e7c5f7928 = Assets/TextureProduction/p2.png
-ce837129c86776108cfd539f8e2a1aa0 = Assets/TextureProduction/p3.png
-e8513910e4e69430403632cbe4955731 = Assets/TextureProduction/p4.png
-3a8367deb4abbfcfda0382e0b922b8e5 = Assets/TextureProduction/p5.png
 ea9e2074d79b134c38f2855abd9f51ae = Assets/Textures/1.jpg
 cdcd4c1946a0fec725a5224db4af8e59 = Assets/Textures/2.jpg
+29c62681f7ba8d3b2c4a6ab157c8c333 = Assets/Textures/2-01.jpg
+56170bf5e94700133c30466525fe356c = Assets/Textures/2-02.jpg
+ba56887c0eaa9fa04661632e9653be22 = Assets/Textures/2-03.jpg
+45ae1928d96f4e6975640ebc7ce6bc3e = Assets/Textures/2-04.jpg
+b5f33ccb50d00a708931fdc2b356da7b = Assets/Textures/2-05.jpg
+81b934b3cd30d674f8a770b5e9657873 = Assets/Textures/2-06.jpg
 c565d3caa555e58edffe0bd93967745a = Assets/Textures/2diffuse.jpg
 b9c502e459a3290c51c584562e258901 = Assets/Textures/3.jpg
 d90e8cbad1b58d3f327c1c5d69073b80 = Assets/Textures/4.jpg
 b96200a6c68bbc6deac6baabaa99946b = Assets/Textures/6.jpg
-7ff9656bd27646b3f239058b329fa0e7 = Assets/Textures/abcdBark.jpg
+7ff9656bd27646b3f239058b329fa0e7 = Assets/Textures/ABCDBARK.JPG
 161c7a161189ba229e88034c09120dda = Assets/Textures/Arcade1.jpg
 83b5985f053938b6f83388b9fed24597 = Assets/Textures/Bin_Blue_T.png
+a74b73bc49cc1828e00366608ee0c070 = Assets/Textures/Black_Metal.jpg
 d6b62932a501436a233328a5a7c88def = Assets/Textures/black-fabric.jpg
 04be36fd3b9f0674fda2dc3096dfdfc7 = Assets/Textures/Blackmetal.jpg
-884eaa8f51ce9e1dd276a3a63d041d9f = Assets/Textures/Blackshirt_Print(320x350).jpg
 0ce223b3ca73a450a011ef6f51f935c9 = Assets/Textures/blackwood.jpg
-9903894f370a0370e5396c45af6b63e6 = Assets/Textures/Blackwood2.jpg
 b98622db98fa90dc005dde1236137574 = Assets/Textures/brushed metal.jpg
 d85b052a442025c9b83d5cab08c83b3d = Assets/Textures/Building-yellow3.jpg
 71e67d6e17b04dec19082532f13f9806 = Assets/Textures/Building-yellow-mjlogo.jpg
 2d345281e43af7799a33a7528c6c8d2d = Assets/Textures/chipboard.jpg
 29eba5dfe037f2d1e22e08bcd7c71de0 = Assets/Textures/Circle.png
-1c7f5af3f431ad370674ae6e23b1c661 = Assets/Textures/concrete.jpg
+1c7f5af3f431ad370674ae6e23b1c661 = Assets/Textures/CONCRETE.JPG
 574b04abf5a7d11e7283fd8a3fea79d3 = Assets/Textures/dcmap_Burri_Maro_bump.jpg
 3ab9aa2d256c8439ef4449565acfbd10 = Assets/Textures/dcmap_Burri_Maro_diff(1).jpg
 10c7f0ba1b86493457bac2b2944453e3 = Assets/Textures/dcmap_Burri_Maro_diff_bump.jpg
@@ -45,37 +39,43 @@ cc03900110f87eecd22b83ecc59783e8 = Assets/Textures/Front_MMFK_hair.jpg
 ce0ef49a8c893800ac8343659997a1be = Assets/Textures/GreyBrick2.jpg
 383fa740214b0741ebd25274a3a30c43 = Assets/Textures/GreyBrick4.jpg
 0546dbc3194947e63a72922a5c7d1108 = Assets/Textures/GreyBrick6.jpg
-7515847f16473d839430b818a2e19241 = Assets/Textures/ground.jpg
+f5defe13a39cefa2321d013e2ea7e986 = Assets/Textures/GreyBrick7.jpg
+7515847f16473d839430b818a2e19241 = Assets/Textures/GROUND.JPG
 ac1414d8a15802f04cd3bc140b262e66 = Assets/Textures/Hellyea.jpg
 78cdb9a6b20da0fd88961b3c7a14d4c4 = Assets/Textures/imacscreen3.jpg
-4037c70cda4e56db62872162be5b6447 = Assets/Textures/Leaves_0.jpg
-010815746b41476db5d7c98e863649d1 = Assets/Textures/LeftBracket_Blue_T.png
+4037c70cda4e56db62872162be5b6447 = Assets/Textures/LEAVES_0.JPG
 0b4c802520f64fa4e84584735fdd96ca = Assets/Textures/Lid_T.png
 761a3a86f4c62bd4b8709172663b46be = Assets/Textures/Mamafaka_JasonFreeny_FloorMat_90cm_190902_V02_CS5.png
-b26d852a686e48f54892be69b393398a = Assets/Textures/mamafaka-portrait.jpg
-a4f05d59d8af31ac24de84ed5d71b7fb = Assets/Textures/Marble 8.jpg
+a4f05d59d8af31ac24de84ed5d71b7fb = Assets/Textures/MARBLE 8.JPG
 bbd0532a6503dc293c90c126849dcc31 = Assets/Textures/marble.jpg
 69be24b9d712dcabb316841b461d7f2e = Assets/Textures/metalgrill.jpg
 014e2564f93ad1838c19e89b4f052944 = Assets/Textures/MMFK(700x300.jpg
 f2a4170e5ed18e5e47b7474f8df96d5b = Assets/Textures/MMFK_hair_Reduced.jpg
-b3b13643c54332d0a38c327a6370bdaf = Assets/Textures/MMFK_VirtualBooth_Signage4.jpg
 d7f967047648f3394b4ac92c2fa8909c = Assets/Textures/MMFK-_white_Logo(420x230).jpg
 780a5a0640e328f7620a26aef2262300 = Assets/Textures/mmfklogo2.jpg
 5fa1232533b4f3b5bc78eebac0e476d0 = Assets/Textures/mmfkroom-wall5.jpg
 bb37e4f989242b329d8236746b5caf7d = Assets/Textures/mpm_f18_camera_diff.jpg
-0f12e31335d0d94aa2b8ac8a768cf0da = Assets/Textures/mpm_f18_icons_mask.jpg
 8ebfd393af912ad502f7bd345e89a4ee = Assets/Textures/MrHellYeahChrome_Lowres_Texture_Chrome4.jpg
 6f9111fd169128cd34d4cb2e2405919e = Assets/Textures/MrsReaper_Texture.jpg
 f92c6c3847f04fbcf22b5ffd5d7f6df8 = Assets/Textures/MuralWall_Blue1.jpg
-ad0727476b4a7b69f75b1332f9ee806b = Assets/Textures/MuralWall_Blue2.jpg
 8799e3c9383841d5818f0ce6362c2e13 = Assets/Textures/MuralWall_Red1.jpg
-18bffcb0301199c1555c3eba26ab3d25 = Assets/Textures/MuralWall_Red2.jpg
-8d6c5bafceaf88f3a5b76df3f510c749 = Assets/Textures/net_end.jpg
+8d6c5bafceaf88f3a5b76df3f510c749 = Assets/Textures/NET_END.JPG
 d9113eada7083e7a62c9f1607b813736 = Assets/Textures/net_mask.jpg
 eb579bb6dc528a493c21c193abf110fb = Assets/Textures/Office_chair_fabric_dif.png
 5f23408f426b7ae8a6eae5ffeef87891 = Assets/Textures/Office_chair_plastic_dif.png
-750f0005b85ffa42f60d22b9012e3de5 = Assets/Textures/osa_Leaf.jpg
-567e4240d16b6584a38e5a47b725c7af = Assets/Textures/Plain-Black-Curtain-Fabric.jpg
+750f0005b85ffa42f60d22b9012e3de5 = Assets/Textures/OSA_LEAF.JPG
+ef82501074805911386701b8f6df37f9 = Assets/Textures/Productions/5 sp-01.png
+a6c7d0cd4b455a0c4b4d7c6efa747622 = Assets/Textures/Productions/5 sp-02.png
+b15d9d8c7dbbd41773eec83baaf52984 = Assets/Textures/Productions/5 sp-03.png
+efd8834f73d22e6d059fcbb1227e28a7 = Assets/Textures/Productions/5 sp-04.png
+d6231a82a8457332b64a7c91dd8b3756 = Assets/Textures/Productions/5 sp-05.png
+af83ad412c2bb05515d5fc539281aee1 = Assets/Textures/Productions/showView/6 Popup-05.png
+c7d0770d6da0cb339a507fab8c6f7d5b = Assets/Textures/Productions/showView/6 Popup-06.png
+06e8274c882b64b6109ebecc343c9030 = Assets/Textures/Productions/showView/picture popup-01.png
+5705e454da20639cd8d40dbe32e21d0e = Assets/Textures/Productions/showView/picture popup-02.png
+0543dfd2e235335bd0369a8c3d7ae2c7 = Assets/Textures/Productions/showView/picture popup-03.png
+759fa3717de48746947f99840d79118c = Assets/Textures/Productions/showView/picture popup-04.png
+3861b093578ed8c1df513e56cc7eea87 = Assets/Textures/Productions/showView/picture popup-05.png
 40f810bdc26bd346176c97b1f70cc315 = Assets/Textures/Reaper_Rats_Cap.jpg
 106c3e185bdf0a4b510192324f95a9d9 = Assets/Textures/ReaperRats_Topwall.jpg
 bce97303a56f2b3d29fc1a79757e7267 = Assets/Textures/reaper-rat-showcase.jpg
@@ -84,29 +84,23 @@ f955d1bf91d284b7077c1bdec892a555 = Assets/Textures/reaper-rat-showcase-side.jpg
 dfed2b7829fdf78030f64da276708aa2 = Assets/Textures/reaper-rat-showcase-side3.jpg
 4f9dd6ad288e77f807e8aee5b37adeda = Assets/Textures/red-black.jpg
 01e9e27b9e1b0be19e08012898c6ac2c = Assets/Textures/redfabric.jpg
-44cadbe47669faf023641faa6319f94d = Assets/Textures/RightBracket_Blue_T.png
 29bf72f2f1888726c1264bead2a450c7 = Assets/Textures/road.jpg
-da4632e01ef4b39fe91254341085e1e1 = Assets/Textures/RR1.jpg
-f6d889cb9df66aa2a6a3152ffe329705 = Assets/Textures/RR1_Landscape.jpg
-34ccfeb195f2b713a3e64a753b44bd7e = Assets/Textures/RR2.jpg
-e875f88bbf06153d136a133ac388eedf = Assets/Textures/RR3.jpg
-7cbf28dd490198a4463990f3c5f7ba67 = Assets/Textures/RR3_Landscape.jpg
 a46744757c2a1f4bd4e084b1a5333b69 = Assets/Textures/rustic-copper5.jpg
-bb129b1f0c8b2ecb89d83c24e3f7c3b1 = Assets/Textures/rustic-copper-greyscale.jpg
-6920b1d3eee5005bdffc85068655429c = Assets/Textures/sewercap3.jpg
+5b5f37d0d56216b5a570e82b40ae4e32 = Assets/Textures/Sewer_Cap.jpg
 ed7866b3a65b827e32ca097bc736a8c4 = Assets/Textures/Side-wall3.jpg
+45889c4b21f5af5a066bbde2210e297d = Assets/Textures/signage5.jpg
 869415d54f66b4bb4adb00900737792b = Assets/Textures/signs_T.png
-4e36236c7e31196a08f34e6b42dc75c3 = Assets/Textures/Soil.jpg
-4052c25e33b8aab10fd751b81bfa82a5 = Assets/Textures/stem_01.jpg
+764e660a0cb2b2d0a86b33851473f3ac = Assets/Textures/Sliver_Metal.jpg
+4e36236c7e31196a08f34e6b42dc75c3 = Assets/Textures/SOIL.JPG
 a4c82944bd8ecb4891b8a05b346d03e9 = Assets/Textures/step2.jpg
 d98bf8c0d43c9d8ac1d9d5443d85ebaf = Assets/Textures/Texture.jpg
+56bc3679b4c88c26349542d552d8ed25 = Assets/Textures/T-shirt_black_Texture5.jpg
+5f11720316045784d55b8d2588b43aa5 = Assets/Textures/T-shirt_Texture7.jpg
 a600cb56dca152fa1d820e6ec74b22e4 = Assets/Textures/Variation1.JPG
 90aae4a9bd3158905e5e3271a9cce7e5 = Assets/Textures/wheel.jpg
 d8afb6fdba2bfb7838879a0095113967 = Assets/Textures/Wheels_T.png
 d1ec68d43238016f907a5f61f0cdf8a8 = Assets/Textures/white lines.jpg
 a7d62d2690183bd5a07362fe61f389e1 = Assets/Textures/whitefabric.jpg
-4a6a46a0d8c4570be6442004f1211779 = Assets/Textures/whitefabric_furball.jpg
-e70f24d58fe0b498359c1cb59a14fd66 = Assets/Textures/whitefabric_mmfklogo.jpg
 a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 915cb82aa4f06d6f3910d5e7e7a867cd = Assets/Textures/wood.jpg
 3df5421513cb6c25ffe0be75364d569f = Assets/Textures/woodtext-ramp2.jpg
@@ -138,7 +132,6 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x7accdf07fb47f2d8 -    8848692593249743576 - Unity.Tiny.Rendering.Light
 0x7ca9f649ecd24eb0 -    8982981729133416112 - Unity.Tiny.Rendering.FragmentShaderBinData
 0x8b79ae39fb32c310 -   10050255607504749328 - ProductDetailComponent
-0x9225a4b002d710ea -   10531004379544621290 - Unity.Entities.Disabled
 0x97490261b3c2de08 -   10901246991677971976 - Unity.Transforms.LocalToWorld
 0x9936cd33eaf52908 -   11040237159414311176 - Unity.Physics.PhysicsCollider
 0x9dd0aed45cc8326a -   11371781286223426154 - Unity.Physics.PhysicsMass
@@ -147,8 +140,7 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0xa6a8a3b8ff79782e -   12009028421338888238 - Unity.Tiny.Rendering.Fog
 0xa8fba173160f8bf3 -   12176503533189696499 - Unity.Tiny.Rendering.PrecompiledShader
 0xb1ac034499f49e3e -   12802611433883082302 - Unity.Transforms.Rotation
-0xbd6e8748ccb98d07 -   13649996267348659463 - Unity.Transforms.CompositeScale
-0xbea79ca45e4be521 -   13738121418087589153 - Unity.Entities.LinkedEntityGroup
+0xccebcde40913b58a -   14766122182552827274 - Unity.Physics.PhysicsGravityFactor
 0xd52a8a8aa388fc91 -   15360241807154281617 - Unity.Tiny.Image2D
 0xda007ce4baa8be64 -   15708692822094298724 - Unity.Tiny.Image2DLoadFromFile
 0xdb003da453d25945 -   15780680870296443205 - Unity.Tiny.Rendering.LitMaterial
