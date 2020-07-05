@@ -1,6 +1,8 @@
 ::Exported Assets::
 8ed9675ce709d4ff2a360d536ddce5b9 = Assets/Scenes/Player.unity
 6d0ee5e244b3e481283000bb9f54a2ab = Assets/Scenes/Shop.unity
+c0fbed1d371290886a13b708e9f7e36c = Assets/Sounds/Footsteps.mp3
+e6b4146fe09ee6ea21fe163658656308 = Assets/Sounds/Nhac nen.mp3
 ea9e2074d79b134c38f2855abd9f51ae = Assets/Textures/1.jpg
 cdcd4c1946a0fec725a5224db4af8e59 = Assets/Textures/2.jpg
 29c62681f7ba8d3b2c4a6ab157c8c333 = Assets/Textures/2-01.jpg
@@ -64,18 +66,18 @@ d9113eada7083e7a62c9f1607b813736 = Assets/Textures/net_mask.jpg
 eb579bb6dc528a493c21c193abf110fb = Assets/Textures/Office_chair_fabric_dif.png
 5f23408f426b7ae8a6eae5ffeef87891 = Assets/Textures/Office_chair_plastic_dif.png
 750f0005b85ffa42f60d22b9012e3de5 = Assets/Textures/OSA_LEAF.JPG
-ef82501074805911386701b8f6df37f9 = Assets/Textures/Productions/5 sp-01.png
-a6c7d0cd4b455a0c4b4d7c6efa747622 = Assets/Textures/Productions/5 sp-02.png
-b15d9d8c7dbbd41773eec83baaf52984 = Assets/Textures/Productions/5 sp-03.png
-efd8834f73d22e6d059fcbb1227e28a7 = Assets/Textures/Productions/5 sp-04.png
-d6231a82a8457332b64a7c91dd8b3756 = Assets/Textures/Productions/5 sp-05.png
-af83ad412c2bb05515d5fc539281aee1 = Assets/Textures/Productions/showView/6 Popup-05.png
-c7d0770d6da0cb339a507fab8c6f7d5b = Assets/Textures/Productions/showView/6 Popup-06.png
-06e8274c882b64b6109ebecc343c9030 = Assets/Textures/Productions/showView/picture popup-01.png
-5705e454da20639cd8d40dbe32e21d0e = Assets/Textures/Productions/showView/picture popup-02.png
-0543dfd2e235335bd0369a8c3d7ae2c7 = Assets/Textures/Productions/showView/picture popup-03.png
-759fa3717de48746947f99840d79118c = Assets/Textures/Productions/showView/picture popup-04.png
-3861b093578ed8c1df513e56cc7eea87 = Assets/Textures/Productions/showView/picture popup-05.png
+548bf09d0e6fe5861a96863e4e2cf4ba = Assets/Textures/Productions/5sp-01.png
+979bbb4023434293b11ba5bd6d48394d = Assets/Textures/Productions/5sp-02.png
+ea6d237bf6e42dd0df270bc325ecad8b = Assets/Textures/Productions/5sp-03.png
+316dad25ef3edc9255a8018dc173012a = Assets/Textures/Productions/5sp-04.png
+ea29300d75d6d51e01c81508572cbd2f = Assets/Textures/Productions/5sp-05.png
+e76da01e5438dbe24e3837a8617a9ddf = Assets/Textures/Productions/showView/5picture-12.png
+e2b4775405ffe17a9e2482dc0d45acea = Assets/Textures/Productions/showView/5picture-13.png
+f6cd2374763b467b2111e3c4384a9023 = Assets/Textures/Productions/showView/5picture-14.png
+916c165ea15be08566c04ed5e00f9f96 = Assets/Textures/Productions/showView/5picture-15.png
+cb9b8d50cdea01298f4f7c4baa1cbebd = Assets/Textures/Productions/showView/5picture-16.png
+93e76c4ba414d6300129b5bf06651268 = Assets/Textures/Productions/showView/6popup-10.png
+455b65276d65bb55c62f5449b2178cf7 = Assets/Textures/Productions/showView/6popup-11.png
 40f810bdc26bd346176c97b1f70cc315 = Assets/Textures/Reaper_Rats_Cap.jpg
 106c3e185bdf0a4b510192324f95a9d9 = Assets/Textures/ReaperRats_Topwall.jpg
 bce97303a56f2b3d29fc1a79757e7267 = Assets/Textures/reaper-rat-showcase.jpg
@@ -115,9 +117,10 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0x1b218d33270729db -    1954998964093135323 - Unity.Tiny.DisplayInfo
 0x1bb99fe8082b6e0c -    1997803728633818636 - Unity.Tiny.Rendering.WorldBounds
 0x1caf83746704a721 -    2067015289954150177 - Unity.Tiny.Rendering.MeshBounds
-0x2b4a005a02a8a840 -    3119306078499153984 - Unity.Tiny.Rendering.LitMeshRenderer
+0x30b27efe18f1bb08 -    3509006689480325896 - Unity.Tiny.Audio.AudioSourceStart
 0x34d16dd06358edd0 -    3805943901892177360 - PlayerInput
 0x362b61c092f03115 -    3903320981773496597 - Unity.Tiny.ConfigurationTag
+0x3b063e646d0abf68 -    4253155499145084776 - Unity.Tiny.Audio.Audio2dPanning
 0x4086db24000237ae -    4649644612972066734 - Unity.Transforms.NonUniformScale
 0x436545f9c83c901f -    4856364712297533471 - Unity.Tiny.Rendering.SimpleMeshRenderData
 0x4d1afe3de83f2462 -    5556032632157840482 - Unity.Transforms.LocalToParent
@@ -140,15 +143,17 @@ a084db8f0a9874727873ee39d365de4d = Assets/Textures/whitewood.jpg
 0xa6a8a3b8ff79782e -   12009028421338888238 - Unity.Tiny.Rendering.Fog
 0xa8fba173160f8bf3 -   12176503533189696499 - Unity.Tiny.Rendering.PrecompiledShader
 0xb1ac034499f49e3e -   12802611433883082302 - Unity.Transforms.Rotation
+0xbb8acf33bef95e2b -   13513841453032889899 - Unity.Tiny.Audio.AudioClip
+0xc01b6bd2cbde545a -   13842776432761001050 - Unity.Tiny.Audio.AudioSource
 0xccebcde40913b58a -   14766122182552827274 - Unity.Physics.PhysicsGravityFactor
 0xd52a8a8aa388fc91 -   15360241807154281617 - Unity.Tiny.Image2D
 0xda007ce4baa8be64 -   15708692822094298724 - Unity.Tiny.Image2DLoadFromFile
-0xdb003da453d25945 -   15780680870296443205 - Unity.Tiny.Rendering.LitMaterial
 0xddbba8ec91f838c5 -   15977549837041678533 - Unity.Entities.Runtime.StartupScenes
 0xe25290b2a1c08b8e -   16308256297554316174 - Unity.Physics.PhysicsVelocity
 0xeb37a6c8ca934757 -   16949199103954470743 - TouchComponent
 0xed1b262e7446b1b0 -   17085291592321249712 - Unity.Tiny.Rendering.VertexShaderBinData
-0xf5eb33b6db09d767 -   17720314019271268199 - Unity.Tiny.Rendering.LitMeshRenderData
+0xef7b3f9b54427c89 -   17256456333566311561 - Unity.Tiny.Audio.AudioClipLoadFromFile
+0xf5667919638a33b7 -   17682954136867976119 - Unity.Tiny.Audio.AudioClipLoadFromFileAudioFile
 
 
 ::All Types in TypeManager (by stable hash)::
