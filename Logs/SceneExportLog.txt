@@ -1,6 +1,6 @@
 ::Exported Assets::
 6d0ee5e244b3e481283000bb9f54a2ab = Assets/Scenes/Shop.unity
-c0fbed1d371290886a13b708e9f7e36c = Assets/Sounds/Footsteps.mp3
+9a5f2bb44a9e8fe7c8fc3a6f343db9bf = Assets/Sounds/Footsteps_Sound_Effects_fix.mp3
 e6b4146fe09ee6ea21fe163658656308 = Assets/Sounds/Nhac nen.mp3
 ea9e2074d79b134c38f2855abd9f51ae = Assets/Textures/1.jpg
 cdcd4c1946a0fec725a5224db4af8e59 = Assets/Textures/2.jpg
@@ -80,6 +80,9 @@ f6cd2374763b467b2111e3c4384a9023 = Assets/Textures/Productions/showView/5picture
 916c165ea15be08566c04ed5e00f9f96 = Assets/Textures/Productions/showView/5picture-15.png
 cb9b8d50cdea01298f4f7c4baa1cbebd = Assets/Textures/Productions/showView/5picture-16.png
 458f3f2a08b7cf3aa43ea4de3fbea18d = Assets/Textures/Productions/showView/6popup-06.png
+4348011fad13e3947273e6b111eb138a = Assets/Textures/Productions/showView/6popup-07.png
+281e9813413814d26a88f5245b4bb9a0 = Assets/Textures/Productions/showView/6popup-08.png
+7959226343e29c9af41329c66ab78e8a = Assets/Textures/Productions/showView/6popup-09.png
 93e76c4ba414d6300129b5bf06651268 = Assets/Textures/Productions/showView/6popup-10.png
 6913a209456367c6f4440df2a02b2274 = Assets/Textures/Productions/showView/6popup-11 download-01-01.png
 d1bb315a9505c8c29ef6a29465edbeac = Assets/Textures/Productions/Tutorial/WADS-01-02.png
